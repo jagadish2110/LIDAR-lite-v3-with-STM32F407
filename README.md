@@ -16,3 +16,12 @@
   			I2C1-PBA(SDA)						SDA
   			    PA2-TX
   			    PA3-RX
+# Execuation:
+	1)  download zip file and extract the file to any folder.
+	2)  open the system workbnce ide and click on file tab.
+	3)  now click on open project from file system.
+	4)  then select the your downloaded file and finish.
+	5)  now your project is open in project explorar tab.
+	6)  open src folder click on main.c file 
+	7)  press ctrl b to build the project.
+	
